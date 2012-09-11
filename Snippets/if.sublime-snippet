@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:if ${1:true|empty|equals|set|false|condition}="${2:value}">
+	$3
+</koken:if>]]></content>
+    <tabTrigger>kif</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken if (…) &gt; … &lt;/koken:if&gt;</description>
+</snippet>

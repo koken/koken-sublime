@@ -1,0 +1,44 @@
+{ "name": "Koken Lens template",
+  "scopeName": "text.html.lens",
+  "fileTypes": ["lens"],
+  "patterns": [
+  {
+    "name": "",
+    "begin": "(</?)(koken:[a-z_]++)(?=[^>]*/?>)",
+    "beginCaptures": {
+      "1": { "name": "punctuation.definition.tag.begin.html" },
+      "2": { "name": "support.function" }
+    },
+    "end": "(>)",
+    "endCaptures": {
+      "1": { "name": "punctuation.definition.tag.end.html" }
+    },
+    "patterns": [
+      { 
+        "name": "", 
+        "match": "([a-z_:]+)(=)(\"[^\"]+\")",
+        "captures": {
+          "1": { "name": "entity.other.attribute-name.html" },
+          "2": { "name": "punctuation.separator.key-value.html" },
+          "3": { "name": "string.quoted.double.html" }
+        } 
+      }
+    ]
+  },
+  {
+  	"name": "",
+  	"begin": "(<)(koken:[a-z_]+)",
+    "beginCaptures": {
+      "1": { "name": "punctuation.definition.tag.begin.html" },
+      "2": { "name": "punctuation.definition.tag.begin.html" }
+    },
+    "end": "\\s?(/>)",
+    "endCaptures": {
+      "1": { "name": "punctuation.definition.tag.end.html" }
+    }
+  },
+  {
+  "include": "text.html.basic"
+  }],
+  "uuid": "9d001fe0-c8aa-4aee-8885-b335965fe3c2"
+}
