@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[<koken:if ${1:true|empty|equals|set|false|condition}="${2:value}">
-	$2
+	$3
 <koken:else>
 	$0
 </koken:if>]]></content>
