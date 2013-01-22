@@ -4,7 +4,7 @@
 		"title": "${2:Title for your oEmbed plugin}",
 		"endpoint": "${3:URL to the endpoint for the oEmbed service provider}",
 		"regex": "${4:Regular expression to match URLs for this oEmbed service}",
-		"icon": "${4:base64 encoded 16x16 image to use as an icon for this oEmbed}"
+		"icon": "${5:base64 encoded 16x16 image to use as an icon for this oEmbed}"
 	}
 }]]></content>
     <tabTrigger>koembed</tabTrigger>
