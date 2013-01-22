@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[{
+	"name": "${1:Your theme or plugin name}",
+	"version": "1.0",
+	"description": "${2:Description for your theme or plugin}",
+	"demo": "${3:URL to a demo page for your theme or plugin}",
+	"author": {
+		"name": "${4:Your name}",
+		"link": "${5:URL to your site}"
+	}
+}]]></content>
+    <tabTrigger>kjson</tabTrigger>
+    <scope>source.json</scope>
+    <description>Basic setup for Koken json files</description>
+</snippet>
