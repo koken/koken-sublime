@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:content_video>
+	$1
+</koken:content_video>]]></content>
+    <tabTrigger>content_video</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:content_video&gt; … &lt;/koken:content_video&gt;</description>
+</snippet>

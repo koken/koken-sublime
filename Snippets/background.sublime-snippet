@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:background tag="${1:div}">
+	$2
+</koken:background>]]></content>
+    <tabTrigger>background</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:background (…) &gt; … &lt;/koken:background&gt;</description>
+</snippet>

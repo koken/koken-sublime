@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:covers ${1:limit="${2:3}"}>
+	$3
+</koken:covers>]]></content>
+    <tabTrigger>covers</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:covers (…) &gt; … &lt;/koken:covers&gt;</description>
+</snippet>

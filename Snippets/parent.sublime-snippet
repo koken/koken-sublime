@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:parent>
+	$1
+</koken:parent>]]></content>
+    <tabTrigger>parent</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:parent&gt; … &lt;/koken:parent&gt;</description>
+</snippet>

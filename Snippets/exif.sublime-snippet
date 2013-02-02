@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:exif>
+	$1
+</koken:exif>]]></content>
+    <tabTrigger>exif</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:exif&gt; … &lt;/koken:exif&gt;</description>
+</snippet>

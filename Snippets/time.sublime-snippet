@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<koken:time />]]></content>
+    <tabTrigger>time</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:time&gt; … &lt;/&gt;</description>
+</snippet>

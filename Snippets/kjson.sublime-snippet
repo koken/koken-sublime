@@ -9,7 +9,7 @@
 		"link": "${5:URL to your site}"
 	}
 }]]></content>
-    <tabTrigger>kjson</tabTrigger>
+    <tabTrigger>json</tabTrigger>
     <scope>source.json</scope>
     <description>Basic setup for Koken json files</description>
 </snippet>

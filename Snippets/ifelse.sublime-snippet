@@ -4,7 +4,7 @@
 <koken:else>
 	$0
 </koken:if>]]></content>
-    <tabTrigger>kifelse</tabTrigger>
+    <tabTrigger>ifelse</tabTrigger>
     <scope>text.html - source</scope>
     <description>&lt;koken if (…) &gt; … &lt;koken:else&gt; … &lt;/koken:if&gt;</description>
 </snippet>

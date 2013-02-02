@@ -7,7 +7,7 @@
 		"icon": "${5:base64 encoded 16x16 image to use as an icon for this oEmbed}"
 	}
 }]]></content>
-    <tabTrigger>koembed</tabTrigger>
+    <tabTrigger>oembed</tabTrigger>
     <scope>source.json</scope>
     <description>Create oEmbed object</description>
 </snippet>

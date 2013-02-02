@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:geolocation>
+	$1
+</koken:geolocation>]]></content>
+    <tabTrigger>geolocation</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:geolocation&gt; … &lt;/koken:geolocation&gt;</description>
+</snippet>

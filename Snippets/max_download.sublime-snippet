@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:max_download>
+	$1
+</koken:max_download>]]></content>
+    <tabTrigger>max_download</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:max_download&gt; … &lt;/koken:max_download&gt;</description>
+</snippet>

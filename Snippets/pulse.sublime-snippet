@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<koken:pulse />]]></content>
+    <tabTrigger>pulse</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:pulse&gt; … &lt;/&gt;</description>
+</snippet>

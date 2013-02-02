@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:load>
+	$1
+</koken:load>]]></content>
+    <tabTrigger>load</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:load&gt; … &lt;/koken:load&gt;</description>
+</snippet>

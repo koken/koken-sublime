@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:pagination>
+	$1
+</koken:pagination>]]></content>
+    <tabTrigger>pagination</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:pagination&gt; … &lt;/koken:pagination&gt;</description>
+</snippet>

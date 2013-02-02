@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[<koken:print data="${1:value}" fallback="${2:value}" />]]></content>
-    <tabTrigger>kpr</tabTrigger>
+    <tabTrigger>print</tabTrigger>
     <scope>text.html - source</scope>
     <description>&lt;koken print data="…" fallback="…" /&gt;</description>
 </snippet>
