@@ -1,5 +1,3 @@
-![Alt text](http://koken.me/img/doc-logo.gif)
-
 Koken + Sublime Text 
 ====================
 
