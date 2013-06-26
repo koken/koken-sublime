@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:profile_facebook>
+	$1
+</koken:profile_facebook>]]></content>
+    <tabTrigger>profile_facebook</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:profile_facebook&gt; … &lt;/koken:profile_facebook&gt;</description>
+</snippet>

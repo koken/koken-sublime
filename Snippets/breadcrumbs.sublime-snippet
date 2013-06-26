@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<koken:breadcrumbs />]]></content>
+    <tabTrigger>breadcrumbs</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken breadcrumbs separator="…" show_if_single="…" show_if_home="…" /&gt;</description>
+</snippet>

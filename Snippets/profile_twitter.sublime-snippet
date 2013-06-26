@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:profile_twitter>
+	$1
+</koken:profile_twitter>]]></content>
+    <tabTrigger>profile_twitter</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:profile_twitter&gt; … &lt;/koken:profile_twitter&gt;</description>
+</snippet>

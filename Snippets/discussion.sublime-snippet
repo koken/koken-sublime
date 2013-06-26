@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:discussion>
+	{{ discussion }}
+</koken:discussion>]]></content>
+    <tabTrigger>discussion</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:discussion&gt; … &lt;/koken:discussion&gt;</description>
+</snippet>

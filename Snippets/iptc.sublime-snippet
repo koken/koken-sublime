@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:iptc>
+	$1
+</koken:iptc>]]></content>
+    <tabTrigger>iptc</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:iptc&gt; … &lt;/koken:iptc&gt;</description>
+</snippet>
