@@ -5,7 +5,7 @@
 		"endpoint": "${3:URL to the endpoint for the oEmbed service provider}",
 		"regex": "${4:Regular expression to match URLs for this oEmbed service}",
 		"icon": "${5:base64 encoded 16x16 image to use as an icon for this oEmbed}"
-	}
+	}$0
 }]]></content>
     <tabTrigger>oembed</tabTrigger>
     <scope>source.json</scope>

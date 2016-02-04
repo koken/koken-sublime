@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<koken:meta />]]></content>
+    <tabTrigger>kmeta</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:meta&gt; … &lt;/koken:meta&gt;</description>
+</snippet>

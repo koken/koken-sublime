@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[<koken:has_category>
-	$1
+    <content><![CDATA[<koken:has_category ${1:title="${2:Portraits}"}>
+	$3
 </koken:has_category>]]></content>
     <tabTrigger>has_category</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:has_category&gt; … &lt;/koken:has_category&gt;</description>
+    <description>&lt;koken:has_category title="…" &gt; … &lt;/koken:has_category&gt;</description>
 </snippet>

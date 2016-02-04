@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[<koken:next>
+    <content><![CDATA[<koken:neighbors>
 	$1
-</koken:next>]]></content>
-    <tabTrigger>next</tabTrigger>
+</koken:neighbors>]]></content>
+    <tabTrigger>neighbors</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:next&gt; … &lt;/koken:next&gt;</description>
+    <description>&lt;koken:neighbors count="…" &gt; … &lt;/koken:neighbors&gt;</description>
 </snippet>

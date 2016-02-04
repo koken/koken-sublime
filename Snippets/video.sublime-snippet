@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[<koken:video />]]></content>
-    <tabTrigger>video</tabTrigger>
+    <tabTrigger>kvideo</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:video&gt; … &lt;/&gt;</description>
+    <description>&lt;koken:video autoplay="…" width="…" &gt; … &lt;/&gt;</description>
 </snippet>

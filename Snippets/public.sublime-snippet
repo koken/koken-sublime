@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:public>
+	$1
+</koken:public>]]></content>
+    <tabTrigger>public</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:public&gt; … &lt;/koken:public&gt;</description>
+</snippet>

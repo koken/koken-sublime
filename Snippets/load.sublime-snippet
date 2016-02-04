@@ -4,5 +4,5 @@
 </koken:load>]]></content>
     <tabTrigger>load</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:load&gt; … &lt;/koken:load&gt;</description>
+    <description>&lt;koken:load filter:param="…" infinite="…" infinite_toggle="…" limit="…" limit_to="…" order_by="…" order_direction="…" source="…" summary="…" &gt; … &lt;/koken:load&gt;</description>
 </snippet>

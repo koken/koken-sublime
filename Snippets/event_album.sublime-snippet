@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:event_album>
+	$1
+</koken:event_album>]]></content>
+    <tabTrigger>event_album</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:event_album &gt; … &lt;/koken:event_album&gt;</description>
+</snippet>

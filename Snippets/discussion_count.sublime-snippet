@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:discussion_count>
+	{{ discussion_count }}
+</koken:discussion_count>]]></content>
+    <tabTrigger>discussion_count</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:discussion_count&gt; … &lt;/koken:discussion_count&gt;</description>
+</snippet>

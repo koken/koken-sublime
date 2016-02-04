@@ -4,5 +4,5 @@
 </koken:loop>]]></content>
     <tabTrigger>loop</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:loop&gt; … &lt;/koken:loop&gt;</description>
+    <description>&lt;koken:loop data="…" limit="…" separator="…" &gt; … &lt;/koken:loop&gt;</description>
 </snippet>

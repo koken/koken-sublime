@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:filtered>
+	$1
+</koken:filtered>]]></content>
+    <tabTrigger>filtered</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:filtered&gt; … &lt;/koken:filtered&gt;</description>
+</snippet>

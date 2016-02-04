@@ -4,5 +4,5 @@
 </koken:tags>]]></content>
     <tabTrigger>tags</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:tags&gt; … &lt;/koken:tags&gt;</description>
+    <description>&lt;koken:tags order_direction="…" &gt; … &lt;/koken:tags&gt;</description>
 </snippet>
