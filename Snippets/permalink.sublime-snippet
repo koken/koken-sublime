@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<koken:permalink />]]></content>
+    <tabTrigger>permalink</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:permalink /&gt;</description>
+</snippet>

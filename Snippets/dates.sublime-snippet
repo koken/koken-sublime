@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:dates>
+	$1
+</koken:dates>]]></content>
+    <tabTrigger>dates</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:dates limit_to="…" &gt; … &lt;/koken:dates&gt;</description>
+</snippet>

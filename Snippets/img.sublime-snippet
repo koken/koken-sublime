@@ -2,5 +2,5 @@
     <content><![CDATA[<koken:img />]]></content>
     <tabTrigger>img</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:img&gt; … &lt;/&gt;</description>
+    <description>&lt;koken:img crop="…" data="…" fade="…" height="…" lazy="…" preset="…" respond_to="…" size="…" width="…" /&gt;</description>
 </snippet>

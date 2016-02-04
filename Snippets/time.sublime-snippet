@@ -2,5 +2,5 @@
     <content><![CDATA[<koken:time />]]></content>
     <tabTrigger>time</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:time&gt; … &lt;/&gt;</description>
+    <description>&lt;koken:time data="…" relative="…" show="…" &gt; … &lt;/&gt;</description>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<koken:include ${1:file="${2}"}/>]]></content>
+    <tabTrigger>include</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:include file="…" /&gt;</description>
+</snippet>

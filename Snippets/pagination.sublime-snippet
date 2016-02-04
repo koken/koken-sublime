@@ -1,8 +1,19 @@
 <snippet>
     <content><![CDATA[<koken:pagination>
-	$1
+	<koken:pagination_previous>
+    $1
+    </koken:pagination_previous>
+    <koken:pagination_limited_previous>
+    $2
+    </koken:pagination_limited_previous>
+    <koken:pagination_limited_next>
+    $3
+    </koken:pagination_limited_next>
+    <koken:pagination_next>
+    $0
+    </koken:pagination_next>
 </koken:pagination>]]></content>
     <tabTrigger>pagination</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:pagination&gt; … &lt;/koken:pagination&gt;</description>
+    <description>&lt;koken:pagination limit="…" &gt; … &lt;/koken:pagination&gt;</description>
 </snippet>

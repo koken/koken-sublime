@@ -4,5 +4,5 @@
 </koken:albums>]]></content>
     <tabTrigger>albums</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:albums&gt; … &lt;/koken:albums&gt;</description>
+    <description>&lt;koken:albums include_current="…" order_by="…" order_direction="…" &gt; … &lt;/koken:albums&gt;</description>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<koken:settings />]]></content>
+    <tabTrigger>settings</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:settings /&gt;</description>
+</snippet>

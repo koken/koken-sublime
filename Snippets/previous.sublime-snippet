@@ -4,5 +4,5 @@
 </koken:previous>]]></content>
     <tabTrigger>previous</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:previous&gt; … &lt;/koken:previous&gt;</description>
+    <description>&lt;koken:previous count="…" &gt; … &lt;/koken:previous&gt;</description>
 </snippet>

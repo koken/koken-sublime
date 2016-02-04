@@ -7,7 +7,7 @@
 	"author": {
 		"name": "${4:Your name}",
 		"link": "${5:URL to your site}"
-	}
+	}$0
 }]]></content>
     <tabTrigger>json</tabTrigger>
     <scope>source.json</scope>

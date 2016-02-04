@@ -4,5 +4,5 @@
 </koken:covers>]]></content>
     <tabTrigger>covers</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:covers (…) &gt; … &lt;/koken:covers&gt;</description>
+    <description>&lt;koken:covers limit="…" minimum="…" &gt; … &lt;/koken:covers&gt;</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:shift>
+	$1
+</koken:shift>]]></content>
+    <tabTrigger>shift</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:shift&gt; … &lt;/koken:shift&gt;</description>
+</snippet>

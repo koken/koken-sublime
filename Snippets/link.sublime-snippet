@@ -2,7 +2,7 @@
     <content><![CDATA[<koken:link>
 	$1
 </koken:link>]]></content>
-    <tabTrigger>link</tabTrigger>
+    <tabTrigger>klink</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:link&gt; … &lt;/koken:link&gt;</description>
+    <description>&lt;koken:link bind_to_key="…" class="…" data="…" filter:id="…" lightbox="…" share="…" style="…" to="…" url="…" &gt; … &lt;/koken:link&gt;</description>
 </snippet>

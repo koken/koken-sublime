@@ -4,5 +4,5 @@
 </koken:next>]]></content>
     <tabTrigger>next</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:next&gt; … &lt;/koken:next&gt;</description>
+    <description>&lt;koken:next count="…" &gt; … &lt;/koken:next&gt;</description>
 </snippet>

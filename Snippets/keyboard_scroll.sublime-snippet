@@ -2,5 +2,5 @@
     <content><![CDATA[<koken:keyboard_scroll element="${1:#element}" offset="${2:0}" />]]></content>
     <tabTrigger>keyboard_scroll</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:keyboard_scroll&gt; … &lt;/&gt;</description>
+    <description>&lt;koken:keyboard_scroll element="…" offset="…" /&gt;</description>
 </snippet>

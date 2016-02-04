@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:not ${1:condition|data+equals|empty|true|exists}="${2:value}">
+	$3
+</koken:not>]]></content>
+    <tabTrigger>not</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:not (…) &gt; … &lt;/koken:not&gt;</description>
+</snippet>

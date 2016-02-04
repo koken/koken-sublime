@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<koken:unlisted>
+	$1
+</koken:unlisted>]]></content>
+    <tabTrigger>unlisted</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:unlisted&gt; … &lt;/koken:unlisted&gt;</description>
+</snippet>

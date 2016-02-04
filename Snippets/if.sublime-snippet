@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[<koken:if ${1:true|empty|equals|set|false|condition}="${2:value}">
+    <content><![CDATA[<koken:if ${1:condition|data+equals|empty|true|exists}="${2:value}">
 	$3
 </koken:if>]]></content>
     <tabTrigger>if</tabTrigger>

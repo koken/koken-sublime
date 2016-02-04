@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<koken:select ${1:label="${2}"}/>]]></content>
+    <tabTrigger>select</tabTrigger>
+    <scope>text.html - source</scope>
+    <description>&lt;koken:select label="…" &gt; … &lt;/&gt;</description>
+</snippet>

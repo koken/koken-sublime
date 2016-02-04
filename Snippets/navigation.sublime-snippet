@@ -2,5 +2,5 @@
     <content><![CDATA[<koken:navigation ${1:group="${2:group_name}"} />]]></content>
     <tabTrigger>navigation</tabTrigger>
     <scope>text.html - source</scope>
-    <description>&lt;koken:navigation&gt; … &lt;/&gt;</description>
+    <description>&lt;koken:navigation group="…" list="…" nested="…" fallbacktext="…"&gt; … &lt;/&gt;</description>
 </snippet>
